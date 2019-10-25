@@ -19,7 +19,8 @@ license:
   label: CC BY-ND 4.0
 title: BRENDA tissue / enzyme source
 build:
-  source_url: http://www.brenda-enzymes.info/ontology/tissue/tree/update/update_files/BrendaTissueOBO
+  source_url: https://www.brenda-enzymes.org/ontology/tissue/tree/update/update_files/BrendaTissueOBO
+  source_url: https://www.brenda-enzymes.org/ontology/tissue/tree/update/update_files/BrendaTissueOWL
   insert_ontology_id: true
   method: obo2owl
 activity_status: active
