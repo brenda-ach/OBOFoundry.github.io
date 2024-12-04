@@ -7,10 +7,10 @@ build:
   path: .
   system: git
 contact:
-  email: c.dudek@tu-braunschweig.de
-  github: chdudek
-  label: Christian-Alexander Dudek
-  orcid: 0000-0001-9117-7909
+  email: antje-jaede@dsmz.de
+  github: brenda-ach
+  label: Antje Läde
+  orcid: 0000-0002-2176-8751
 description: A structured controlled vocabulary for the source of an enzyme comprising tissues, cell lines, cell types and cell cultures.
 domain: anatomy and development
 homepage: http://www.brenda-enzymes.org
